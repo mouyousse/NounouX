@@ -65,7 +65,8 @@ Elle a pour objectif :
 Serveur: Vm Debian 12
 Base de donnée: postgresql SQL
 IDE: Android Studio Rabbit 1
-Deploy: Gradle
+Language : kotlin (java 25)
+Deploy: Gradle 9.5
 Support:Android 7.0+ 
 API:express/node.js
 
