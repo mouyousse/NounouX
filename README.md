@@ -65,7 +65,7 @@ Elle a pour objectif :
 Serveur: Vm Debian 12
 Base de donnée: postgresql SQL
 IDE: Android Studio Rabbit 1
-Deploy: Maven
+Deploy: Gradle
 Support:Android 7.0+ 
 API:express/node.js
 
