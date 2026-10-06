@@ -96,14 +96,14 @@ L'application PC est destinée à leur consultation, leur modification, leur tra
 * [ ] Support Parent
 
 
-# 🔐 Sécurité et confidentialité
+# Sécurité et confidentialité
 
 Nounoux manipule des données relatives aux enfants accueillis.
 
 Les communications entre l'application mobile, le serveur et la base de données ne communiqueront uniquement en local 
 sur cette version sans support parent ainsi l'app ne sera utilisé uniquement en interne ainsi la sécurité sera assurée.
 
-## 📌 Projet
+# Projet
 
 Nounoux est développé dans le but de proposer un outil simple et pratique aux assistantes maternelles pour la gestion des présences.
 
