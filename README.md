@@ -60,7 +60,7 @@ Elle a pour objectif :
  la génération de fiches de présence ;
  gérer les enfants/parents enregistrés
 
-# Outils : 
+# Stack : 
 
 Serveur: Vm Debian 12
 Base de donnée: postgresql SQL
