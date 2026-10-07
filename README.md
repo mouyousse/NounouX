@@ -121,4 +121,6 @@ Concernant les livrables je ne peux pas communiquer de dates les concernant car 
 
 # Livrable (suivis) : 
 
+Livrable 1 :
+ -ajout d'une branche pour le suivi configuration et intallation de la bdd et dbheaver,installation de node et express et connection avec la bdd
 Projet en cours de développement.
