@@ -119,8 +119,4 @@ Le projet est composé de plusieurs parties et sera réalisé dans cette ordre:
 
 Concernant les livrables je ne peux pas communiquer de dates les concernant car il m'est impossible de m'assurer du respect de ses dernières,cependant le github sera mise à jour à chaque étape du projet.
 
-# Livrable (suivis) : 
 
-Livrable 1 :
- -ajout d'une branche pour le suivi configuration et intallation de la bdd et dbheaver,installation de node et express et connection avec la bdd
-Projet en cours de développement.
