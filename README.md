@@ -77,7 +77,7 @@ L'application mobile est principalement destinée à la **saisie des présences*
 
 L'application PC est destinée à leur consultation, leur modification, leur traitement et leur exploitation.
 
-# Actuellement
+# V1
 
 * [x] Pointage des enfants
 * [x] Enregistrement des heures d'arrivée
@@ -86,7 +86,7 @@ L'application PC est destinée à leur consultation, leur modification, leur tra
 * [x] HIstorique
 * [x] Notifications
 
-# Non possible sur cette version
+# V2
 
 * [ ] Gestion des enfants
 * [ ] Génération automatique des fiches de présence
