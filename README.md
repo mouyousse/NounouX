@@ -121,4 +121,8 @@ Concernant les livrables je ne peux pas communiquer de dates les concernant car 
 
 # Livrable (suivis) : 
 
+Livrable1:
+finis le 11 oct 2026 à été réalisé les diagrammes de BDD/Classes/API
+Livrable2:
+Commencement
 Projet en cours de développement.
